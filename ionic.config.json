@@ -1,0 +1,7 @@
+{
+  "name": "android-keyboard-issue",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
